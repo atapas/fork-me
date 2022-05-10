@@ -1,3 +1,3 @@
 # Practice forking
 
-thank you sir for your give us tutorial 
+thank you sir for you give us tutorial 
