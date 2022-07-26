@@ -12,7 +12,9 @@ This Repository is created just for the learning purpose and help opensource ent
 
 ### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
 
-[![Stargazers repo roster for @atapas/fork-me](https://reporoster.com/stars/atapas/fork-me)](https://github.com/atapas/fork-me/stargazers)
+<a href="https://github.com/atapas/fork-me/stargazers">
+  <img src="https://git-lister.onrender.com/api/stars/atapas/fork-me?limit=25" alt="Stargazers repo roster for @atapas/fork-me" />
+</a>
 
 # How Fork Works
 Here is the Fork Workflow...
