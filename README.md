@@ -8,7 +8,9 @@ So, do you want to learn how to fork a repo? You can.
 - Add a Readme.md file inside the folder with any text of your choice
 - Create a Pull Request.
 
-This Repository is created just for the learning purpose and help opensource enthusiast to try out forking. Btw, once I approve your Pull Request and Merge, I shall add you as a contributor to this project. Liked it? Please support the initiative with a STAR(⭐).
+This Repository is created just for the learning purpose and help opensource enthusiast to try out forking. Btw, once I approve your Pull Request and Merge, you willbe added as a contributor to this project. 
+
+Liked it? Please support the initiative with a STAR(⭐).
 
 ### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
 
