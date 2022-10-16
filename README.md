@@ -1,4 +1,4 @@
-# fork-me
+# <h1 align="center">fork-me</h1>
 Yeah, right. FORK ME!!!
 
 So, do you want to learn how to fork a repo? You can. 
@@ -16,7 +16,7 @@ Liked it? Please support the initiative with a STAR(⭐).
 
 [![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/atapas/fork-me?limit=15)](https://github.com/atapas/fork-me/stargazers)
 
-# How Fork Works
+# <h1 align="center">How Fork Works</h1>
 Here is the Fork Workflow...
 
 <p align="center">
