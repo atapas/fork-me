@@ -1,9 +1,3 @@
-<img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/bio2.png" width="840px" align="right">
-<br>
-<br>
-<br>
-<h2 align="center"> Hey Welcome To My DOM !!</h2> <br><h2 align="center"> While ( ! ( Succeed = try())); </h2>  
-
 I’m @Vaishnvee-Shinde
 
 - 👀 I’m interested in web & App Development
