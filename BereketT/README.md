@@ -6,8 +6,9 @@ Then, in your favorite command line
 
     //login to gh cli
     gh auth login --web
-    //find the github url to the repo you want to fork
-    //it will look something like `https://github.com/learn-devops-fast/spock-lizard-docker.git`
+    
+Find the github url to the repo you want to fork, it will look something like `https://github.com/learn-devops-fast/spock-lizard-docker.git`
+    
     //fork using the cli command
     gh repo fork https://github.com/learn-devops-fast/spock-lizard-docker.git --clone
 
