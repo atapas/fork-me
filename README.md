@@ -8,7 +8,7 @@ So, do you want to learn how to fork a repo? You can.
 - Add a Readme.md file inside the folder with any text of your choice
 - Create a Pull Request.
 
-This Repository is created just for the learning purpose and help opensource enthusiast to try out forking. Btw, once I approve your Pull Request and Merge, you willbe added as a contributor to this project. 
+This Repository is created just for the learning purpose and help opensource enthusiast to try out forking. Btw, once I approve your Pull Request and Merge, you will be added as a contributor to this project. 
 
 Liked it? Please support the initiative with a STAR(⭐).
 
@@ -24,6 +24,6 @@ Here is the Fork Workflow...
 </p>
 
 # So, Want to Learn More?
-Here is a complete guide(YouTube Video) to learn about GitHub Forking with examples
+Here is a complete guide([YouTube Video](https://www.youtube.com/watch?v=h8suY-Osn8Q)) to learn about GitHub Forking with examples
 
 <a href="https://www.youtube.com/watch?v=h8suY-Osn8Q" title="How to Fork"><img src="GitHub%20Fork.png" alt="image" height="400px" width="500px"/></a>
