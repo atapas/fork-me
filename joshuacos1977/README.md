@@ -1,1 +1,1 @@
-Tahnk you ro understanding forking concept
+Tahnk you for understanding forking concept
