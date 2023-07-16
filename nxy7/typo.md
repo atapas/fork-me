@@ -1,1 +1,1 @@
-This fiel is made as part of IBM assignment.
+This file is made as part of IBM assignment.
