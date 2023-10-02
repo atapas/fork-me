@@ -6,7 +6,7 @@ So, do you want to learn how to fork a repo? You can.
 - Just fork this repo
 - Create a folder with name same as your GitHub user id
 - Add a Readme.md file inside the folder with any text of your choice
-- Create a Pull Request.
+- Create a Pull Request in the maintainer's id.
 
 This Repository is created just for the learning purpose and help opensource enthusiast to try out forking. Btw, once I approve your Pull Request and Merge, you will be added as a contributor to this project. 
 
