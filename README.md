@@ -10,11 +10,16 @@ So, do you want to learn how to fork a repo? You can.
 
 This Repository is created just for the learning purpose and help opensource enthusiast to try out forking. Btw, once I approve your Pull Request and Merge, you will be added as a contributor to this project. 
 
-Liked it? Please support the initiative with a STAR(⭐).
+## 🫶 Support
+Liked it? You can show your support with a STAR(⭐).
 
 ### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
 
 [![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/atapas/fork-me?limit=15)](https://github.com/atapas/fork-me/stargazers)
+
+### Sponsor My Work
+
+I am an independent educator who creates meaningful projects to teach programming. You can support me further by [sponsoring me on GitHub](https://github.com/sponsors/atapas).
 
 # How Fork Works
 Here is the Fork Workflow...
