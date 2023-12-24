@@ -1,7 +1,8 @@
 # THANK YOU
 
-### Craeted my own readme file
+## Craeted my own readme file
 
+### Thank you
 
 
 
