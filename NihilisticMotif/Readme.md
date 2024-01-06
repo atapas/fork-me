@@ -18,3 +18,5 @@ Saved working directory and index state WIP on master: 4be6bc8 Create cmd03_git_
 imac@iMacs-iMac WorldHistory % git status
 On branch master
 nothing to commit, working tree clean
+
+* https://youtu.be/_NrSWLQsDL4?si=bvVw1pAUHKRZZ9yI
