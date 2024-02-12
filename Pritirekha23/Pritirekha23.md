@@ -26,11 +26,16 @@
 ## step-2
 - Create a folder and file in the repository using terminal commands.
 - Committ and pushing the changes to the GitHub repository.
+
+## step-3
 - Raise a pull request to contribute the changes to the main upstream repository.
+
 
 ## Forking, cloning, making changes, and submitting pull requests on GitHub 🙌.
 - Explanation of forking, cloning, and making changes to a repository on GitHub.
 - Submitting a pull request and understanding the differences between the local and parent repositories.
+
+
 
 
 # 🌐 Socials:
