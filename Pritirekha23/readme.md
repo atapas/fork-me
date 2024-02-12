@@ -29,7 +29,9 @@
 
 ## step-3
 - Raise a pull request to contribute the changes to the main upstream repository.
-
+![pull request](<pull request.png>)
+- Now click on Newpullrequest
+![new pull request](<Screenshot 2024-02-12 183706.png>)
 
 ## Forking, cloning, making changes, and submitting pull requests on GitHub 🙌.
 - Explanation of forking, cloning, and making changes to a repository on GitHub.
