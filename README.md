@@ -1,9 +1,9 @@
 # fork-me
-Yeah, right. FORK ME!!!
+Yeah, right. FORK ME!!!   James Dickens
 
 So, do you want to learn how to fork a repo? You can. 
 
-- Just fork this repo
+- You should fork this repo
 - Create a folder with name same as your GitHub user id
 - Add a Readme.md file inside the folder with any text of your choice
 - Create a Pull Request.
