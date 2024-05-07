@@ -20,6 +20,7 @@ Liked it? You can show your support with a STAR(⭐).
 ### Sponsor My Work
 
 I am an independent educator who creates meaningful projects to teach programming. You can support me further by [sponsoring me on GitHub](https://github.com/sponsors/atapas).
+I am a learner who wants to learn everything
 
 # How Fork Works
 Here is the Fork Workflow...
