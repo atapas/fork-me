@@ -1,7 +1,7 @@
 # fork-me
 Yeah, right. FORK ME!!!
 
-So, do you want to learn how to fork a repo? You can! 
+So, do you want to learn how to fork a repo? You can. 
 
 - Just fork this repo
 - Create a folder with name same as your GitHub user id
