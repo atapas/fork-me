@@ -3,7 +3,8 @@
 ***You Can Find Me On***
 * [Facebook](https://www.facebook.com/websaiful907)
 * [LinkedIn](https://www.linkedin.com/in/saiful907/)
-  ***TEch Stack Logos***
- ![React](https://github.com/SaifulBUBT/fork-me/blob/main/SaifulBUBT/images/react.png)
- ![Next.js](https://github.com/SaifulBUBT/fork-me/blob/main/SaifulBUBT/images/nextjs.png)
- ![Shopify](https://github.com/SaifulBUBT/fork-me/blob/main/SaifulBUBT/images/shopify.png) 
+
+***TEch Stack Logos***
+![React](https://github.com/SaifulBUBT/fork-me/blob/main/SaifulBUBT/images/react.png)
+![Next.js](https://github.com/SaifulBUBT/fork-me/blob/main/SaifulBUBT/images/nextjs.png)
+![Shopify](https://github.com/SaifulBUBT/fork-me/blob/main/SaifulBUBT/images/shopify.png) 
