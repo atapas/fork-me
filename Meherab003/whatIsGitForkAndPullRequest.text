@@ -1,0 +1,28 @@
+🔁 What does “forking a repo” mean?
+When you fork a repository:
+
+1. You get your own copy of that project on GitHub.
+
+2. You can make changes, add features, or fix bugs.
+
+3. Later, you can propose your changes to the original project by creating a pull request.
+
+✅ When to Use a Fork
+.You want to contribute to someone else’s project.
+.You need to customize a public project for your own use.
+.You don't have write access to the original repository.
+
+
+🔁 What is a Pull Request?
+A pull request is a developer's request to "pull" their code changes from one branch (often a feature branch) into another (usually the main or master branch).
+
+1. It's typically used in collaborative development to:
+
+2. Share completed work
+
+3. Get feedback or code reviews
+
+4. Run tests/CI pipelines
+
+5. Merge into the main project after approval
+
