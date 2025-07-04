@@ -1,1 +1,0 @@
-Hello, I am student from Poland and I just love IT.

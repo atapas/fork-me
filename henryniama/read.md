@@ -1,1 +1,0 @@
-# Thanks for the amazing tutorial, bro.

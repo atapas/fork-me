@@ -1,3 +1,0 @@
-# Forking Repo 
-
-*Thank you!* 

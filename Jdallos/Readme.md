@@ -1,1 +1,0 @@
-Simple and practical tutorial, thanks.
