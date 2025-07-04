@@ -1,1 +1,0 @@
-Hacktoberfest 2022

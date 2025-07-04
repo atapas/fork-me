@@ -1,1 +1,0 @@
-Hey there! you're inside readme created by Utkarsh from India
