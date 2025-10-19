@@ -1,0 +1,1 @@
+Hi, everyone, I am Ayan from Bangladesh, a Junior Frontend Developer. Currently working as a remote developer in a Indian startup.
